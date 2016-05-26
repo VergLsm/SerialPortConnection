@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SerialPortConnection</string>
+    <string name="title_activity_serial_console">SerialConsoleActivity</string>
+</resources>
